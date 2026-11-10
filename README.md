@@ -29,4 +29,4 @@ A standalone desktop engineering application built with Python and Tkinter to ev
 No external scientific libraries (`matplotlib`, `numpy`, or `scipy`) are required.
 
 ```bash
-python app.py
+thermodyanmics simulator.py
